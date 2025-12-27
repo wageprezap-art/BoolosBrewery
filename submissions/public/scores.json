@@ -150,6 +150,13 @@
       "question_limit": 2,
       "question_avg": 4.746141975308642,
       "complexity": 4053
+    },
+    "submissions/public/hard/20251227_170058_habub.py": {
+      "author": "ShalevWen",
+      "accepted_on": "20251227_170058",
+      "question_limit": 2,
+      "question_avg": 4.743827160493828,
+      "complexity": 1079
     }
   }
 }
