@@ -1,1 +1,1 @@
-import strats from *
+from strats import *
